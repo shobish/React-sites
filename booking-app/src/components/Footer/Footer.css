@@ -1,0 +1,30 @@
+.footer {
+  width: 100%;
+  max-width: 1024px;
+}
+.fList {
+  color: #4a4949;
+  opacity: 0.8;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+.flistItems {
+  cursor: pointer;
+  display: flex;
+}
+
+ul {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0;
+  list-style: none;
+}
+.fcopy {
+  font-weight: 500;
+  font-size: 14px;
+  color: #4a4949;
+  opacity: 0.5;
+  justify-content: center;
+  display: flex;
+}
